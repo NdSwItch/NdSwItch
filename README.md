@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NdSwItch
+- 👀 I’m interested in Crating Discord Bot's
+- 🌱 I’m currently learning JavaScript, Python and Lua
+- 📫 You can text to me on my site
